@@ -1,0 +1,14 @@
+" Display line numbers on the left
+set number
+
+" Show autocomplete menu
+set wildmenu
+
+" automatically set current director to directory of file in buffer
+set autochdir
+
+" Make backspace work like most other programs
+set backspace=2
+
+" Display relative numbers
+set relativenumber
